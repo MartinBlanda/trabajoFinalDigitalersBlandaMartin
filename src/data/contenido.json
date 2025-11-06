@@ -1,0 +1,92 @@
+[
+    {
+        "nombre": "Kusuriya no Hitorigoto",
+        "tipo": "Manga",
+        "imagen": "https://i1.whakoom.com/large/1e/11/72239956d7fe415f8bc4528254520736.jpg",
+        "puntuacion": 9.5,
+        "reseña": "Manga de fantasía inspirado en la china medieval, que sigue la vida de MaoMao, una farmaceutica que termina trabajando en el palacio, y gracias a sus conocimientos generales, y sobre todo de hiervas y venenos, termina siendo involucrada en muchos casos, desde salvar a la hija del emperador, hasta investigar casos de intentos de asesinatos. Uno de los mejores mangas que he leido que tambien cuenta con unas cuantas temporadas de anime disponibles, altamente recomendable.",
+        "Duracion": "80 capitulos",
+        "estado": "en emisión"
+    },
+    {
+        "nombre": "Chi: Chikyuu no Undou ni Tsuite",
+        "tipo": "Anime",
+        "imagen": "https://images.justwatch.com/poster/323301816/s332/temporada-1.webp",
+        "puntuacion": 10,
+        "reseña": "Un anime trata sobre el descubrimiento de la teoría del heliocentrismo, en una epoca donde la iglecia trataba toda teoría como herejía, un anime hermoso sobre como las ideas se propagan y no pueden morir una vez entran en la mente de las personas. Si le das una oportunidad te juro que te va a marcar.",
+        "Duracion": "25 capitulos",
+        "estado": "finalizado"
+    },
+    {
+        "nombre": "Hollow Knight: silksong",
+        "tipo": "Juego",
+        "imagen": "https://cdn.wikimg.net/en/hkwiki/images/1/13/Silksong_cover.jpg",
+        "puntuacion": 8,
+        "reseña": "Un juego que fue esperado por años, y esos años valieron totalmente la pena, una jugabilidad exquisita, un mundo muy bien diseñado, un set de movimientos muy satisfactorio, y una banda sonora que te sumerge en el mundo de Hornet. Un juego que todo fan de los metroidvania debe jugar.",
+        "Duracion": "32 horas",
+        "estado": "en progreso"
+    },
+    {
+        "nombre": "Kingdom",
+        "tipo": "Manga",
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/d/d9/Kingdom_%28manga%29_1.png",
+        "puntuacion": 10,
+        "reseña": "Este es sin duda mi manga favorito, basado en la epoca de los estados combatientes en china, sigue la vida de Xin, un huérfano que sueña con convertirse en el gran general del reino de Qin, y ayudar a unificar china. Con batallas épicas, personajes profundos y una historia que te atrapa desde el primer capítulo, es una obra maestra del manga histórico.",
+        "Duracion": "855 capitulos",
+        "estado": "en emisión"
+    },
+    {
+        "nombre": "Untitled Goose Game",
+        "tipo": "Juego",
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Untitled_Goose_Game_Cover_art.jpg/250px-Untitled_Goose_Game_Cover_art.jpg",
+        "puntuacion": 7,
+        "reseña": "Un juego corto y divertido donde controlas a un ganso travieso que causa caos en un pequeño pueblo. Es una experiencia ligera y entretenida, perfecta para relajarse y reírse un rato, además se puede jugar en cooperativo.",
+        "Duracion": "4 horas",
+        "estado": "completado"
+    },
+    {
+        "nombre": "sousou no frieren",
+        "tipo": "Anime",
+        "imagen": "https://m.media-amazon.com/images/I/816AbVQc+0L.jpg",
+        "puntuacion": 8.5,
+        "reseña": "Anime de fantasía que sigue a Frieren, una elfa maga que formó parte de un grupo de héroes que derrotó al rey demonio. Después de la victoria, la historia se centra en su viaje para comprender mejor la vida y las emociones humanas, explorando temas profundos sobre el tiempo, la memoria y la mortalidad. Un anime conmovedor con una narrativa única y personajes bien desarrollados.",
+        "Duracion": "28 capitulos",
+        "estado": "completada"
+    },
+    {
+        "nombre": "hollow Knight",
+        "tipo": "Juego",
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Hollow_Knight_first_cover_art.webp/274px-Hollow_Knight_first_cover_art.webp.png",
+        "puntuacion": 8,
+        "reseña": "Aunque la serie tiene buen ritmo, algunos episodios fueron algo lentos. Aún así, vale la pena verla por su trama única.",
+        "Duracion": "20 horas",
+        "estado": "completado"
+    },
+    {
+        "nombre": "re:zero",
+        "tipo": "Anime",
+        "imagen": "https://revistayume.com/wp-content/uploads/2024/11/re-zero-s3-pt2-725x1024.jpg",
+        "puntuacion": 8,
+        "reseña": "Una serie que mezcla elementos de fantasía y suspenso, con un protagonista que revive cada vez que muere. Aunque la serie tiene buen ritmo, algunos episodios fueron algo lentos. Aún así, vale la pena verla por su trama única.",
+        "Duracion": "3 temporadas",
+        "estado": "finalizado(en espera de una nueva temporada)"
+    },
+    {
+        "nombre": "Honkai: Star Rail",
+        "tipo": "Juego",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BNTZhOTAzNWMtNzE5NS00MzRlLWE4ZjItNzM3N2JlMDA5MTczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "puntuacion": 9.5,
+        "reseña": "Un RPG de ciencia ficción con una narrativa profunda y un sistema de combate por turnos muy bien diseñado. La exploración espacial y la construcción de personajes son aspectos destacados que hacen que el juego sea muy envolvente y entretenido.",
+        "Duracion": "Indefinida",
+        "estado": "live service"
+    },
+    {
+        "nombre": "Jury Duty",
+        "tipo": "Serie",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BMzNjY2QyMDItMDFiZC00NmZjLTlhMmQtNzdlYzU2MWMzYTU2XkEyXkFqcGc@._V1_.jpg",
+        "puntuacion": 8,
+        "reseña": "Una comedia que sigue a un hombre común que se encuentra en medio de un juicio como jurado. La serie ofrece una mirada humorística a las dinámicas del sistema judicial y las interacciones entre los personajes, con situaciones cómicas y diálogos ingeniosos.",
+        "Duracion": "8 capitulos",
+        "estado": "finalizada"
+    }
+]
